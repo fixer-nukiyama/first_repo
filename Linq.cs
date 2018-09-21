@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Created by SharpDevelop.
  * User: nukiyama.makoto
  * Date: 2018/09/21
@@ -7,9 +7,6 @@
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
-//using System.Configuration;
-//using System.Data;
-//using System.Data.SqlClient;
 using System.Linq;
 //using System.Text;
 //using System.Threading.Tasks;
